@@ -16,7 +16,7 @@ Topics that we will cover:
 * CSS - Serving CSS files
 and more!
 
-While paralelly we will be building our very own Shopping Cart Web 
+While parallelly we will be building our very own Shopping Cart Web 
 Application that works!
 
 ## Steps to be followed
