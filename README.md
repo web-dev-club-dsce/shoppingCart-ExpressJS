@@ -32,6 +32,12 @@ Open gitbash in the folder you want to download (clone) the repository.
 Type the command in GitBash: `git clone 
 https://github.com/web-dev-club-dsce/shoppingCart-ExpressJS.git`
 
+### Once Downloaded: Run this command using the terminal in the final 
+and start folder
+`npm install`
+to install the node packages.
+This must be done in both the folders to get the node modules.
+
 ### You're all set! Hurray!
 
 Web Dev Club
